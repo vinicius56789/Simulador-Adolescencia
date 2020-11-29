@@ -37,3 +37,4 @@ Simule a vida de uma criança/adolescente de acordo com sua posição social.
 
 > Arquivo principal, faz o chamado das funções de status e armazena em variáveis. Depois disso, faz o chamado da função verificaIdade(idade, classe, qi, dinheiro, habilidadeEsporte, felicidade) e passa os status como parâmetros.
 
+### Até a próxima :wolf:
