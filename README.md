@@ -23,7 +23,7 @@ Simule a vida de uma criança/adolescente de acordo com sua posição social.
 
 ##### utilidades.py
 
-> Neste arquivo, está presente apenas uma função que chama um input.
+> Neste arquivo está presente apenas uma função que chama um input.
 
 ##### pessoais.py
 
